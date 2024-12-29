@@ -12,8 +12,10 @@
 </procedure>
 
 <procedure title="Some procedure" id="some_procedure" collapsible="true">
+
     <step>Do this</step>
     <step>Do that</step>
+
 </procedure>
 
 ### 3. Когда начинать и заканчивать тестирование?
